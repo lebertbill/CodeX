@@ -8,28 +8,35 @@ Their Marketing team is responsible for increasing brand awareness, market share
 ## Task
 1. Demographic Insights (examples)
    
-  a. Who prefers energy drink more? (male/female/non-binary?)
-  b. Which age group prefers energy drinks more?
-  c. Which type of marketing reaches the most Youth (15-30)?
+     a. Who prefers energy drink more? (male/female/non-binary?)
+     
+     b. Which age group prefers energy drinks more?
+     
+     c. Which type of marketing reaches the most Youth (15-30)?
 
 3. Consumer Preferences:
    
-  a. What are the preferred ingredients of energy drinks among respondents?
-  b. What packaging preferences do respondents have for energy drinks?
+     a. What are the preferred ingredients of energy drinks among respondents?
+     
+     b. What packaging preferences do respondents have for energy drinks?
 
 5. Purchase Behavior:
-   
-  a. Where do respondents prefer to purchase energy drinks?
-  b. What are the typical consumption situations for energy drinks among
-  respondents?
-  c. What factors influence respondents' purchase decisions, such as price range and
-  limited edition packaging?
+      
+     a. Where do respondents prefer to purchase energy drinks?
+     
+     b. What are the typical consumption situations for energy drinks among
+     respondents?
+     
+     c. What factors influence respondents' purchase decisions, such as price range and
+     limited edition packaging?
+  
 
 7. Marketing Channels and Brand Awareness:
    
-  a. Which marketing channel can be used to reach more customers?
-  b. Which area of business should we focus more on our product development?
-  (Branding/taste/availability)
+     a. Which marketing channel can be used to reach more customers?
+     
+     b. Which area of business should we focus more on our product development?
+     (Branding/taste/availability)
 
 ## Demographic insights
 <img src="https://github.com/lebertbill/CodeX-PowerBI/blob/main/images/codex1.JPG" width="550" class="center">
